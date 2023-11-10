@@ -1,0 +1,688 @@
+[00:00.000 --> 00:07.640]  Hello folks, welcome to today's video. We will be doing a beginner's guide to log seek now
+[00:07.640 --> 00:15.320]  This is a pretty new application and one that I haven't yet covered and that's because I haven't taken a look at it
+[00:15.320 --> 00:19.440]  In full detail, but I tell you who has and who will be running today's video is
+[00:20.000 --> 00:25.480]  Dario de Silva who runs one stuttering mind and he's going to be diving into
+[00:25.920 --> 00:29.680]  How he uses log seek and a beginner's tour
+[00:29.760 --> 00:37.520]  It's quite a lengthy video, but it is really insightful if you're a beginner looking at log seek and want to go further
+[00:37.640 --> 00:40.880]  So I am very grateful for Dario for coming on
+[00:40.880 --> 00:45.760]  He has a brand new course about log seek if you're looking to take your skills a lot further
+[00:46.000 --> 00:48.520]  You will find the link in the description below
+[00:48.840 --> 00:53.400]  But I'm very excited to pass over to Dario and I will let him explain
+[00:53.760 --> 00:59.600]  Through log seek about his course and how he uses the application. So I'll pass over to you Dario
+[00:59.600 --> 01:02.400]  Thank you very much for coming on. Hello key productive years
+[01:02.400 --> 01:08.000]  My name is Dario and I run a little channel called one stuttering mind and that's also my online persona and
+[01:08.560 --> 01:11.040]  Francesco has kindly given me the privilege of
+[01:11.680 --> 01:14.360]  Introducing log seek to you now. It's a privilege
+[01:14.360 --> 01:20.720]  But it's also quite a daunting task because log seek is a rather powerful program and there's a lot that it can do
+[01:20.800 --> 01:25.320]  But I'm gonna start with the basics and then show how I use it towards the end of the video
+[01:25.320 --> 01:28.560]  A lot of people have told me that when they first start using log seek
+[01:28.560 --> 01:32.760]  It feels like a very intimidating environment. It looks like a code editor. They don't know where to work
+[01:32.760 --> 01:36.560]  They don't know how it's storing their files. So I'm gonna try and break all of that down to you
+[01:36.720 --> 01:43.300]  Now, I also think that it's good to start with a general high level principle of no taking when I started introducing people to log
+[01:43.300 --> 01:49.260]  Seek I always used to refer to it as a notes taking app and I've progressed that to think of it more as an
+[01:49.540 --> 01:55.140]  Information management app. There's a lot of talk in the online productivity space of having a digital second brain
+[01:55.140 --> 01:57.660]  And I think log seek is the perfect example of that
+[01:57.660 --> 02:02.740]  It can really do a lot all in one app from task management to your personal knowledge management
+[02:02.780 --> 02:05.500]  To just your personal writing workflows or journaling
+[02:05.500 --> 02:09.660]  I do that all in log seek and a lot more as they say to the man with the hammer
+[02:09.740 --> 02:16.140]  Every object is a nail and I've really adopted that and I'll show you a little bit later what that looks like in my personal database
+[02:16.460 --> 02:18.340]  Now before we get into log seek
+[02:18.340 --> 02:24.140]  I also want to talk a little bit about the philosophy of no taking and why it can be such a challenge
+[02:24.140 --> 02:29.580]  I think a lot of our systems are one-way systems where it's like information is going to this black hole
+[02:29.580 --> 02:31.580]  And then when you need to go and find that information
+[02:31.700 --> 02:37.700]  You have to expend a lot of efforts in order to retrieve the information that you were looking for and if you have good search
+[02:37.740 --> 02:40.960]  That's all good and well, but if you're even mildly disorganized
+[02:40.960 --> 02:45.340]  It can often be quite a friction full process to go and find that information now
+[02:45.340 --> 02:52.420]  I believe that effective no taking slash information management is a non-linear process where you can input information retrieve information
+[02:53.500 --> 03:00.220]  Organize that information all at one time basically and log seek provides an all-in-one user interface that allows us to do this
+[03:00.460 --> 03:05.900]  So that is my point of departure and now I'm going to get into log seek and show you what it looks like
+[03:06.020 --> 03:09.300]  so I've gone to the log seek website a lo g s eq and
+[03:09.580 --> 03:14.700]  The reason that it's log seek and not log sec is that log seek is a sequence of logs
+[03:14.700 --> 03:16.140]  I'm going to get into that a little bit more
+[03:16.140 --> 03:21.220]  But what it allows me to do is both download a desktop app or open a local folder on my computer
+[03:21.300 --> 03:25.740]  So the browser is then going to be interacting with a folder on my computer
+[03:25.780 --> 03:30.100]  So I'm going to start with that approach and then I'm going to get into the desktop app a little bit later
+[03:30.100 --> 03:32.460]  so I'm just going to go open a log local folder and
+[03:33.380 --> 03:37.380]  log seek is loading up and
+[03:38.620 --> 03:40.620]  You can see that this is a demo graph
+[03:40.820 --> 03:45.740]  Changes will not be saved until you open a folder a lot of people have lost information by starting to work yet
+[03:45.740 --> 03:50.860]  You first need to create your own folder to store information in there's a lot of instructional material over here
+[03:50.860 --> 03:54.180]  But I'm not going to get into that right now what I'm going to look at is opening a folder
+[03:54.180 --> 03:56.740]  So in the top right here, you'll see a little button which says open
+[03:57.260 --> 04:03.260]  Now I've opened my PC folder and I've gone to desktop just for this demonstration and I'm going to create a new folder here
+[04:03.940 --> 04:08.880]  for this demo, so it's going to be called keep productive keep productive
+[04:09.820 --> 04:12.620]  so I literally just select that folder and
+[04:13.900 --> 04:16.980]  Log seek is now created a database now
+[04:16.980 --> 04:20.340]  This is going to edit the files in that folder for me
+[04:20.340 --> 04:22.340]  So log seek is fundamentally a text editor
+[04:22.460 --> 04:28.540]  So this little pop-up that you see here says log seek comm will be able to view files and keep productive until you close all
+[04:28.540 --> 04:29.420]  tabs for the site
+[04:29.420 --> 04:32.700]  So what this is saying is that log seek is going to be creating and editing
+[04:33.180 --> 04:36.380]  Text files in that folder and it's doing that in markdown format
+[04:36.380 --> 04:41.660]  We're going to get into too much detail there, but I'm going to allow permission to do both that and to edit the files
+[04:42.820 --> 04:44.260]  great and
+[04:44.260 --> 04:49.060]  The first thing that I'm going to see here is this blank page with today's date
+[04:49.060 --> 04:52.500]  So when you first open logs, you're going to be met by this blank space
+[04:52.540 --> 04:59.220]  Which is today's journal page everyone will refer to it as the journal page and that is just a dates-based calendar page
+[04:59.260 --> 05:02.220]  now the way that I like to think about this is as an
+[05:03.860 --> 05:08.860]  A5 calendar page, you know an old A5 book that used to have we used to just drop down your thoughts
+[05:09.020 --> 05:16.100]  that is a mental model for thinking about your your daily journal page and you can just drop anything in there and
+[05:16.380 --> 05:18.940]  We're going to get into like how you might organize a little bit later
+[05:19.180 --> 05:26.340]  But it's really just creating a text file for today's date that is going to include all the information that you're putting into log
+[05:26.340 --> 05:30.420]  Seek so I'm going to go back to log seek now. So log seek is a block-based program
+[05:30.420 --> 05:34.660]  So if you're familiar with Rome research or notion, this will be very familiar to you
+[05:34.740 --> 05:40.620]  But if you're coming from another paradigm such as ever note or one note or something else
+[05:40.620 --> 05:45.220]  Even obsidian sometimes it is a little bit of a mindset shift
+[05:45.220 --> 05:51.980]  So a page creates a file in my log seek database, but a block is like a paragraph or a bullet point
+[05:52.140 --> 05:55.180]  So I'm going to start writing here. Let me actually zoom in a little bit and
+[05:56.300 --> 05:59.980]  I'm going to start writing some things that I need to do today things to do today and
+[06:01.500 --> 06:05.180]  That is my first block and I'm going to go to the file just now
+[06:05.420 --> 06:09.020]  But I now want to write about things that I want to do today
+[06:09.380 --> 06:12.340]  So I can continue writing in the next line
+[06:12.340 --> 06:17.180]  But really this belongs to the block underneath it and this is an important thing in log seek which is indenting
+[06:17.260 --> 06:23.060]  So if I say tab it indents underneath that first block and that is basically like creating a folder
+[06:23.060 --> 06:26.660]  So all the things that I want to do today, then I list the things so I can say
+[06:27.100 --> 06:29.740]  Book a hair appointment because my hair is messy
+[06:34.020 --> 06:36.020]  Go grocery shopping
+[06:36.980 --> 06:41.420]  And record keep productive video
+[06:42.940 --> 06:48.820]  Video again great now I can enter and then carry on writing there
+[06:48.820 --> 06:55.500]  Well, I can enter again and we'll take me back to the highest level of the page because it's not related to that first level block
+[06:55.500 --> 06:58.020]  Now what I want to do is carry on writing about something else
+[06:58.020 --> 07:03.100]  So maybe I've been thinking a lot about collaboration which I have so I've been thinking a
+[07:04.100 --> 07:06.100]  lot about
+[07:07.660 --> 07:13.580]  Collaboration and again enter and then I want to carry on that thought so I'm going to indent it underneath there and
+[07:13.900 --> 07:18.340]  I'm going to say how can log seek help teams and
+[07:20.380 --> 07:21.780]  Then
+[07:21.780 --> 07:27.220]  Enter again still underneath that point on collaboration. How can log seek help researchers?
+[07:27.980 --> 07:29.500]  So
+[07:29.500 --> 07:34.020]  There are two questions that I've been thinking about and then after say enter I can enter again
+[07:34.020 --> 07:40.340]  Well, I can shift tab to go back to that highest level and then I want to say I started reading an article
+[07:41.060 --> 07:43.060]  reading an article
+[07:44.500 --> 07:46.500]  about
+[07:47.660 --> 07:49.940]  Business process improvements business process
+[07:50.860 --> 07:52.140]  improvements
+[07:52.140 --> 07:54.860]  And then enter and then tab to indent underneath it
+[07:54.860 --> 07:59.260]  And this is a very important point of using an outliner. You need to nest the information underneath it
+[07:59.260 --> 08:02.860]  That's what is meant by nesting so I tab and then I can say
+[08:03.900 --> 08:05.900]  It was interesting
+[08:07.340 --> 08:12.420]  How they focused on not automating up front
+[08:14.020 --> 08:15.260]  Up front
+[08:15.260 --> 08:20.140]  okay, and enter again, and now I can say I had a meeting today, so I
+[08:20.900 --> 08:22.900]  Had a meeting
+[08:23.340 --> 08:25.340]  With let's say Francesco
+[08:26.140 --> 08:28.380]  shout out to Francesco about
+[08:29.780 --> 08:32.340]  Logistics optimization projects. I'm going to enter that in capitals
+[08:33.380 --> 08:35.380] ization projects and
+[08:36.740 --> 08:39.580]  Again tabbing need to confirm
+[08:42.260 --> 08:44.660]  Confirm confirm dates
+[08:45.220 --> 08:50.380]  for site visit and do some research on
+[08:52.180 --> 08:54.260]  the best
+[08:54.260 --> 08:57.140]  interventions in rail
+[08:58.220 --> 09:00.220]  logistics
+[09:00.380 --> 09:01.740]  Okay
+[09:01.740 --> 09:05.180]  So I've been answering a lot of information and log seek now
+[09:05.500 --> 09:08.620]  How is this represented in my files now?
+[09:08.620 --> 09:11.620]  This is an important part about log seek that you actually own your files
+[09:11.900 --> 09:17.820]  You are able to edit them in other programs so you can edit these files in obsidian you can edit them in VS code
+[09:17.980 --> 09:23.300]  There's no server that's storing your files and this means that it's a very long living solution
+[09:23.300 --> 09:27.460]  You don't have to pay a fixed amount every month to be able to access your files
+[09:27.580 --> 09:30.900]  You own them on your computer. So I'm going to go to my desktop
+[09:31.540 --> 09:36.540]  I'm going to move this keep productive folder over here. It's a bit small. I'm sorry
+[09:36.540 --> 09:41.340]  And you'll see how that log seek has created a bunch of folders in that keep productive folders
+[09:41.660 --> 09:46.460]  So the first folder here is my journal. So that as I said is my daily journal pages
+[09:46.460 --> 09:48.460]  So it's creating a file for every date
+[09:48.980 --> 09:53.260]  The second folder over here is where log seek stores some of the files for the program
+[09:53.260 --> 09:56.660]  And then the third folder here is pages that you're going to get into in a minute
+[09:56.740 --> 09:58.740]  but if I go to my journals pages and
+[09:59.260 --> 10:01.260]  I open today's file
+[10:01.900 --> 10:06.460]  It's going to open it with my standard text editing program on my computer, which is VS code
+[10:06.620 --> 10:11.340]  So I've opened this file in VS code and you can see here that it's just creating a dash and
+[10:12.140 --> 10:14.460]  things to do today and then where it's
+[10:15.060 --> 10:19.020]  Another block that's in dense underneath there. You can just see it's creating another level over there
+[10:19.140 --> 10:22.700]  So that's the file structure and how it's editing my markdown files
+[10:22.700 --> 10:26.460]  And I think it's just an important thing to become aware of that log seek is a text editor
+[10:26.740 --> 10:29.900]  Primarily and then an outliner secondary
+[10:29.900 --> 10:35.380]  So if you're using obsidian you will say but I can do this in obsidian obsidian is not a native
+[10:35.420 --> 10:42.060]  Outliner in the sense that you need to add a plug-in and change the settings in order to be able to get the functionality that you get in
+[10:42.060 --> 10:48.420]  Log seek so if I go back to log seek out liners have this concept of text on rails where if I move the parent level block
+[10:48.420 --> 10:53.420]  So this would be the parent level block and then these ones would be the children underneath it
+[10:53.540 --> 10:57.460]  If I move the parent level block, it's going to move all the blocks underneath it
+[10:57.500 --> 11:03.220]  So if I do that it's moving all that text and I can also use shortcuts. It's a very robust shortcut program
+[11:03.260 --> 11:07.260]  So if I say I'll shift up and I'll shift down that's moving it there
+[11:07.260 --> 11:10.060]  I can also indent this so tab there
+[11:10.140 --> 11:15.900]  but now that's not the correct hierarchy in the sense that things to do today been thinking of a lot of our
+[11:16.100 --> 11:19.140]  Collaboration don't really fit together. So I'm just going to shift tab that out and
+[11:20.060 --> 11:26.900]  Now we're going to get into bi-directional linking. This is just plain text all good and well, but it's still not very easy to retrieve and
+[11:27.180 --> 11:34.420]  Eventually, this is going to be a massive information and how am I going to structure it now log seek works on a graph database
+[11:34.420 --> 11:39.260]  And that means that you can create nodes that allow you to easily retrieve information
+[11:39.820 --> 11:44.380]  Later on and the way that you create nodes is by bi-directional linking
+[11:44.380 --> 11:51.420]  so a lot of people would have seen the square brackets or double square brackets in different programs or hashtags which indicates that you are creating a
+[11:51.740 --> 11:53.740]  node in your database and
+[11:54.020 --> 12:00.960]  That node allows me to retrieve that information at a later point. So I'm going to move this example down here
+[12:02.060 --> 12:03.660]  Just so that it's at the bottom
+[12:03.660 --> 12:08.020]  So that was just I'll shift down and I'm going to add some nodes in my database
+[12:08.140 --> 12:12.940]  So the first one that I want to do is collaboration. So I'm going to say
+[12:13.580 --> 12:16.620]  Square brackets square brackets or highlight the word and then square brackets square brackets
+[12:16.620 --> 12:19.380]  And then it gives me the option to say new page
+[12:20.060 --> 12:26.020]  Collaboration and this is what is meant by a page a page just creates another node in my database
+[12:26.380 --> 12:32.500]  Now I'm going to show how this bi-directional linking works just now, but I'm quickly going to just add a few more tags here
+[12:33.100 --> 12:35.940]  Then I'm going to say how can log seek help teams?
+[12:36.220 --> 12:43.100]  So I'm going to say this is in a professional context. So I'm going to use a hashtag and
+[12:43.740 --> 12:45.740]  then professional
+[12:45.860 --> 12:47.860]  professional and
+[12:48.660 --> 12:54.060]  This is also creating a page. This is an important difference between something like obsidian and log seek
+[12:54.700 --> 12:55.900]  log seek
+[12:55.900 --> 12:59.940]  Hashtags and square brackets do the exact same thing. So it's an important thing just to state
+[12:59.940 --> 13:06.820]  I'm going to say hashtag professional and then how can log seek help researchers and here I'm going to say
+[13:07.860 --> 13:10.460]  Hashtag and now I want to use two words
+[13:10.460 --> 13:16.020]  I want to say research workflows because that's the that's the context that I want to be able to find that information in again
+[13:16.340 --> 13:19.380]  But because it's a split word. I'll have to say
+[13:20.420 --> 13:22.420]  Hashtag and square brackets
+[13:23.220 --> 13:25.220]  research workflows
+[13:25.500 --> 13:30.460]  Okay, great. You could make it one word and that's up to personal preference
+[13:30.460 --> 13:34.340]  I like to have everything, you know appearing in the same way
+[13:34.580 --> 13:40.220]  So quick recap on what I've done. I've just created three different nodes here collaboration
+[13:40.620 --> 13:42.780]  professional and research workflows and
+[13:43.300 --> 13:44.740]  again to emphasize
+[13:44.780 --> 13:49.740]  hashtag and square brackets do the exact same thing and in order to get my
+[13:50.500 --> 13:55.580]  Double words or double barrel words to appear as a hashtag. I have to use the square brackets
+[13:55.580 --> 13:59.060]  So those are some important things that show up on the log seek forum quite a lot
+[13:59.460 --> 14:03.900]  Now, why would I want to use the different hashtags and square brackets?
+[14:03.940 --> 14:06.020]  It really is a matter of personal preference
+[14:06.020 --> 14:10.860]  But the way that I like to do it is when I'm using the word in line in the sense that I'm using it in the sentence
+[14:10.860 --> 14:17.060]  I will use square brackets and when I'm referring to a topic or concept that I want to refer back to I use hashtag
+[14:17.060 --> 14:22.340]  It's just personal preference. You can do it in any way you want. You don't even have to have a hashtag over there
+[14:22.340 --> 14:24.340]  So you could theoretically do that
+[14:24.980 --> 14:27.180]  Okay, so it's the same thing
+[14:27.940 --> 14:33.660]  I'm gonna carry on here quickly and I'm gonna say cool. I wanted to add a meeting with Francesco
+[14:33.660 --> 14:38.100]  So yeah, I'm just creating these nodes and these nodes are the way that I'm able to retrieve information
+[14:38.540 --> 14:41.460]  Easily down the line. So I've got meeting with Francesco and
+[14:42.060 --> 14:49.140]  Logistic optimization project. I need to confirm dates for site visits and I need to do some research on the best interventions in rail
+[14:49.220 --> 14:54.660]  Logistics, so maybe I want to have rail logistics here just in square in square brackets
+[14:54.940 --> 14:58.460]  so square brackets square brackets and then maybe interventions
+[14:59.180 --> 15:03.620]  It doesn't hurt to tag a lot up front. It really is adding no cost to the program
+[15:03.620 --> 15:06.540]  It's just helpful to be able to retrieve that information later down the line
+[15:06.940 --> 15:11.620]  Now this thing over here this point is a task that I need to complete
+[15:11.620 --> 15:18.420]  So I need to confirm dates for a site visit and log seekers got built-in task management functionality and I can go
+[15:18.540 --> 15:21.180]  to my settings which is here my top right and
+[15:22.740 --> 15:26.740]  I can click on that button and I can change my task management workflow
+[15:27.140 --> 15:32.460]  So if I go to my editor over here, I can choose my preferred workflow and I want to
+[15:32.980 --> 15:35.720]  put it as to do doing so
+[15:36.780 --> 15:42.260]  Change that there and I exit and what that means is that when I use the shortcut for a task
+[15:42.260 --> 15:49.020]  It will say to do and the shortcut is control enter so control enter and that creates this task
+[15:50.540 --> 15:55.380]  Now that's basically also creating another type of bidirectional link
+[15:55.580 --> 15:59.900]  So all of these over here are now pages in my database
+[15:59.940 --> 16:03.340]  And those pages are nodes that I can find information through again
+[16:03.700 --> 16:09.460]  To do does the exact same thing and the way that I can see that is I can actually navigate to a to-do page
+[16:09.620 --> 16:13.780]  Now the way I can find information is in the search bar up here. So if I go there I
+[16:14.420 --> 16:20.180]  Can search for to do and you'll see that there's a page now if I go to that page
+[16:20.860 --> 16:24.860]  You'll see that task over there. So a quick pause to the video here
+[16:24.860 --> 16:28.420]  A lot of people will have the question. What do I create a page for well?
+[16:28.420 --> 16:34.040]  A page can be created for any node of information that you want to return back to so it could be an event a meeting
+[16:34.040 --> 16:36.820]  The status of something like the to-do or draft
+[16:36.820 --> 16:40.420]  It could be a person that you want to be able to reference or project
+[16:40.420 --> 16:47.060]  It could be a concept like love or decision making all of those are like nodes of information that you can return back to
+[16:47.100 --> 16:49.940]  There's a lot of nuance in how you might want to create different nodes
+[16:49.940 --> 16:56.300]  But that's basically a good point of departure one of the things which is very useful is to be able to open
+[16:56.500 --> 17:02.260]  Information in different places in log seek and I'm going to use that to explain the bi-directional linking
+[17:02.260 --> 17:06.540]  So log seek gives you two panels to work in. So if I shift click this
+[17:08.180 --> 17:11.300]  It opens up that page on the right sidebar and
+[17:12.940 --> 17:15.260]  If I click on that little home button there
+[17:15.580 --> 17:21.180]  It takes me back to the journal and you can see there's giving me all the shortcuts that you can turn that setting off
+[17:21.500 --> 17:25.820]  but now I'm able to work in multiple different places at one time and
+[17:26.180 --> 17:30.420]  The principle of bi-directional linking is that when I link out to a to-do
+[17:30.860 --> 17:35.060]  From any page if I go to the to-do page on the right
+[17:35.060 --> 17:38.300]  Yes, so this is now the to-do page which has been opened up in the right hand panel
+[17:38.420 --> 17:40.420]  It's showing me that
+[17:40.780 --> 17:48.340]  Information or that block of information and where it's coming from so it's saying it's coming from the 15th of July 2022 and
+[17:49.100 --> 17:51.100]  It's saying that this
+[17:51.260 --> 17:56.220]  Task that I have to do comes from the meeting that I had with Francesco about logistics
+[17:56.740 --> 18:02.100]  Optimization project and that's very useful later down the line and I'll show you in my personal database
+[18:02.460 --> 18:06.660]  Now I'm gonna carry on here, and I'm gonna say a couple of things
+[18:07.660 --> 18:09.660]  This is a head hit appointment
+[18:09.660 --> 18:16.100]  So to do go grocery shopping to do and then record keep productive video. I'm gonna highlight that
+[18:16.740 --> 18:20.420]  With square brackets create a new page and then to do
+[18:21.340 --> 18:25.740]  Great this last one here. I'm going to use for another example because that's very useful
+[18:26.140 --> 18:28.380]  So now you can see if I go to my to-do page
+[18:28.380 --> 18:34.340]  It shows me all the things that I have to do there and that is a useful collection points to be able to retrieve that information
+[18:34.340 --> 18:38.620]  Later down the line. I don't have to go and search for it. I don't have to go look across different applications
+[18:38.620 --> 18:41.980]  So as I say, I'm doing absolutely everything in log seek
+[18:42.500 --> 18:47.260]  Now this right sidebar is quite useful. We also have a left sidebar
+[18:47.380 --> 18:53.060]  So if I open up the left sidebar here, I can navigate to a bunch of different menus
+[18:53.060 --> 18:54.420]  I'm not going to get into all of them
+[18:54.420 --> 18:58.660]  But one of the cool things that I can do is create a favorites page
+[18:58.660 --> 19:03.980]  So hypothetically, I want to navigate to this logistics optimization projects
+[19:03.980 --> 19:08.380]  So I'm gonna go there click on that page and it's gonna open in my main panel over here
+[19:08.380 --> 19:12.780]  So it's getting a little bit convoluted. You can close these things with shortcuts. It's very very easy
+[19:12.780 --> 19:18.180]  But for now, I'm just gonna leave it here. I'm actually just gonna rename this to be logistics optimization project
+[19:18.180 --> 19:23.460]  So very simple to rename pages and then I'm going to add this page to favorites
+[19:23.460 --> 19:27.140]  So again going to the three button menu over there add two favorites
+[19:27.140 --> 19:32.240]  And that means that I can very quickly come back to this project at any point in time
+[19:33.180 --> 19:38.020]  So this has been starting with the web app and before we quickly navigate to the desktop app
+[19:38.020 --> 19:41.780]  I just want to show you the the graph view and the graph view is
+[19:43.100 --> 19:48.500]  Showing nothing at the moment because the graph you shows where different pages are linked
+[19:48.500 --> 19:51.620]  So if I link one page to another page, it creates a link
+[19:51.860 --> 19:57.300]  But I have chosen to have my journal pages off. So now my dates pages are not showing
+[19:57.420 --> 19:59.420]  So if I go to my journals page
+[20:00.580 --> 20:02.580]  if I turn my journals on and
+[20:02.940 --> 20:09.060]  I reset my graph it will show that on the 15th of July 2022 I
+[20:10.460 --> 20:14.420]  Spoke about all these different content or I dressed all these different nodes in my database
+[20:14.900 --> 20:18.380]  So important thing to remember here. We'll get back to this a little bit later
+[20:18.380 --> 20:22.580]  I'm gonna never get back to my desktop just to show you what's happening in the folder because
+[20:23.260 --> 20:27.620]  if I go back to keep productive and I go back to my pages
+[20:28.820 --> 20:32.100]  You'll see here that I've only got one page there, which is a contents page
+[20:32.100 --> 20:37.140]  Now I don't remember creating a contents page. That's because I didn't this is a log seek built-in page and
+[20:37.580 --> 20:40.980]  I've created all these nodes. Why aren't they showing up yet?
+[20:41.140 --> 20:47.020]  It's because I haven't put any information in those pages. So when I create a page as a reference node
+[20:47.020 --> 20:52.700]  I I'm not putting information in that node. I'm just pointing information to the node. It doesn't create a page
+[20:52.860 --> 20:58.260]  so if I go back to log seek and I go back to my logistics optimization project
+[20:58.260 --> 21:01.660]  I can then put a little bit of information in that page now
+[21:01.660 --> 21:05.140]  So I'm not in this page logistics optimization project
+[21:05.420 --> 21:09.780]  I could go to July the 15th page and into information there
+[21:09.780 --> 21:12.380]  But I'm just gonna enter it here because it feels like it belongs here. So
+[21:13.220 --> 21:15.220]  project scope project
+[21:15.900 --> 21:17.900]  scope and
+[21:19.580 --> 21:21.580]  Important people I
+[21:23.300 --> 21:27.960]  Can say I can link here to Francesco Francesco and project scope
+[21:29.020 --> 21:30.220]  improve
+[21:30.220 --> 21:32.220]  Rail efficiency something like that
+[21:35.140 --> 21:40.020]  If you're familiar with markdown headings, you can also use markdown headings, which is using a pound or hashtag sign
+[21:40.020 --> 21:45.300]  So this is not creating a link now. So this will be I'm gonna say markdown heading to and that's
+[21:46.500 --> 21:53.620]  Hashtag hashtag space and this will be markdown heading to as well hashtag hashtag and you can use markdown levels
+[21:53.620 --> 21:57.540]  And I actually gonna indent Francesco underneath this important people
+[21:57.580 --> 22:00.780]  So enter and then indent and the project scope
+[22:01.180 --> 22:03.780]  I'm just going to indent something underneath there
+[22:03.980 --> 22:11.300]  So if I now go back to that page or the pages you can see there that my logistics optimization page has been created
+[22:11.300 --> 22:13.300]  so I can navigate in there and
+[22:16.540 --> 22:21.380]  Voila, you can see the information that I've entered. Okay, so this has been the web application
+[22:21.380 --> 22:23.940]  I now want to get into the desktop application
+[22:23.940 --> 22:30.060]  So the web application is a perfectly good place to start but the desktop application gives you a little bit more functionality
+[22:30.060 --> 22:32.940]  It's a little bit quicker and you can also use it completely offline
+[22:32.940 --> 22:38.980]  So I'd highly recommend switching over there as quickly as possible and you can see here that I've got no information in here
+[22:38.980 --> 22:46.260]  So again, I need to first add my graph so adding that folder or that database of information that I've already started creating with the web
+[22:46.380 --> 22:51.540]  application so if I go up here to the right and so much clean I say add graph and
+[22:52.300 --> 22:55.180]  this is a little menu which says choose a folder and
+[22:56.380 --> 22:58.380]  there we go go there and
+[22:58.780 --> 23:03.540]  I go to my desktop and I can just choose that folder that I created and
+[23:06.060 --> 23:07.820]  It will bring in all those files
+[23:07.820 --> 23:14.780]  So it's exactly the same thing that I was seeing in the web application now if I go to the graph view you'll see there that there are a
+[23:16.140 --> 23:19.460]  Couple of nodes, but I'm going to turn the journals off
+[23:19.460 --> 23:25.340]  So if I just click over here and I say turn journals off you'll see there's only two things connected which is
+[23:25.980 --> 23:31.460]  Francesco connecting to that logistics optimization project. So if I just go home up here, so
+[23:32.140 --> 23:37.300]  Over there. I can also use GH. I now go back to this page over here
+[23:37.300 --> 23:38.380]  and
+[23:38.380 --> 23:43.000]  The thing that I wanted to show is this article that I started getting on business process improvement
+[23:43.020 --> 23:49.700]  Now it was actually a PDF and this is one of log six big ones that you can upload and annotate PDFs in line
+[23:49.700 --> 23:55.460]  It's very very powerful. So the way I do that is I'll say forward slash and that opens up this command menu
+[23:55.460 --> 23:59.700]  and then I can start typing upload or I can scroll through there and
+[24:00.380 --> 24:05.940]  You can see some of my plugins which I've hidden but I'll get there just now and I'm going to upload an asset
+[24:06.980 --> 24:11.900]  Now I've got a few assets here that I'm going to show you but the first one I want to show is this PDF
+[24:12.500 --> 24:19.460]  so it's bringing in my PDF into log seek and I can click on that which is now a button and link and
+[24:20.260 --> 24:22.260]  It takes me to this PDF
+[24:22.820 --> 24:24.220]  now
+[24:24.220 --> 24:26.980]  This is a little bit buggy. There's some work still going on
+[24:27.260 --> 24:31.220]  But if I go to this highlights page by clicking on this button over here
+[24:31.660 --> 24:37.100]  it will allow me to highlight information and it will store the text in log seek
+[24:37.500 --> 24:45.060]  So if I choose the highlighter button up there, or I just select the text and then highlight it after the fact
+[24:45.900 --> 24:47.900]  and
+[24:48.180 --> 24:50.180]  Then I choose a color
+[24:51.220 --> 24:52.740]  It's now
+[24:52.740 --> 24:55.100]  Grabbing that text and referencing it there
+[24:55.620 --> 25:00.900]  What I'm going to do here is I'm going to add some links just that I'm able to find this information again
+[25:00.900 --> 25:04.420]  I'm not going to do it with the properties, which is another more advanced feature
+[25:04.420 --> 25:10.700]  But I'm going to say this is business process improvements. So let me just create a page link here business
+[25:11.820 --> 25:13.820]  process
+[25:15.500 --> 25:17.500]  Improvement
+[25:18.820 --> 25:20.820]  Topping is not going well
+[25:20.820 --> 25:26.340]  Great, so I'm able to find this information again because sometimes the PDFs a little bit tricky and you might lose them
+[25:26.620 --> 25:29.580]  Okay, but I know that if I've created this page link
+[25:30.460 --> 25:32.940]  I'm just gonna close this here now if I
+[25:33.580 --> 25:35.180]  Trying to remember
+[25:35.180 --> 25:41.660]  PDF I can go to this business process improvement or actually let me just also create a PDF tag here
+[25:41.700 --> 25:46.580]  So maybe I can use a hashtag as I say it's doing the exact same thing and there we go
+[25:46.580 --> 25:52.900]  So I've now got multiple different ways of retrieving this information, which is super important. It's not location dependent
+[25:52.900 --> 25:57.620]  It's all about the sparks in my brain that are firing off. Let's say how do I find this information again?
+[25:58.420 --> 26:03.580]  So I also might want to say Harvard Business Review because that's who made it. So Harvard
+[26:04.660 --> 26:05.860]  business
+[26:05.860 --> 26:06.980]  review
+[26:06.980 --> 26:12.740]  So I'm not able to retrieve this information three different ways and if I open up this PDF page
+[26:13.020 --> 26:18.380]  So I'm gonna shift click that on the right and it shows me my linked references here
+[26:18.540 --> 26:24.140]  So that's automatically creating this back link, which is referring back to that article
+[26:24.500 --> 26:28.380]  So if I go to Harvard Business Review, you'll also see that article linked up there
+[26:28.380 --> 26:31.300]  So I can open shift clicking that also opens up on the right
+[26:31.300 --> 26:37.700]  So this PDF and the notes that I'm making on it are now retrievable in multiple different ways as I said
+[26:38.140 --> 26:40.140]  The cool thing here is that I can also
+[26:40.420 --> 26:43.700]  Go back to this text very very easily. So
+[26:44.340 --> 26:46.940]  Hypothetically, I am going back to my daily journal
+[26:46.940 --> 26:50.660]  so I'm gonna close this on the right sidebar and let me start using shortcuts now so TR and
+[26:51.300 --> 26:54.660]  I'm gonna close this on the left sidebar as well. So TL and
+[26:55.180 --> 26:58.540]  I'm gonna go home so GH that goes back to my page and
+[26:59.540 --> 27:03.980]  Here I realized that I didn't actually link that so let me link this business process improvements
+[27:05.020 --> 27:10.660]  Great. I'm gonna just link it there and because there was already a page there. It didn't have to create a page
+[27:10.780 --> 27:16.620]  Okay, great. So now I can I want to go and read this article again
+[27:16.620 --> 27:19.020]  But I don't want to go have to navigate to the PDF first
+[27:19.020 --> 27:23.100]  I want to see what I've got in my database about business process improvements
+[27:23.220 --> 27:27.180]  So I go there and I see that on July the 15th. I started talking about it
+[27:27.660 --> 27:31.660]  You know this article, but I've also got this highlights over here
+[27:31.660 --> 27:36.540]  So if I go there and I see all my highlights, I can think hmm. What are the cool things I saw now?
+[27:36.620 --> 27:39.660]  Hypothetically, I want to go back to that block with that piece of information
+[27:39.980 --> 27:45.100]  All I need to do is click here and it takes me back to that exact point in the PDF
+[27:45.100 --> 27:50.700]  And that's a very very nifty feature. I also spoke about how you can add other assets to log seek
+[27:50.740 --> 27:53.940]  So if I close here and I go back to my home page
+[27:53.980 --> 27:58.700]  So gh that takes me go home. That's how I think about it. I can now
+[27:59.500 --> 28:03.180]  Enter enter and I can add a picture and an mp3. I'm
+[28:03.700 --> 28:06.180]  Going to my desktop now just to show you the file
+[28:06.180 --> 28:13.340]  So I'm gonna copy this African fish eagle here and I'm gonna go back to log seek and I'm going to paste it over here
+[28:13.340 --> 28:19.380]  And you can see there that it brings in a picture now going back to my desktop grabbing the audio file
+[28:20.220 --> 28:22.420]  copy and paste and
+[28:23.300 --> 28:30.100]  Oops, yeah, go just find the right place paste and then I have this
+[28:30.100 --> 28:32.020]  We will see each other mp3 now
+[28:32.020 --> 28:37.780]  You can see that it's not opening that file in log seek because it doesn't have the exclamation mark
+[28:37.780 --> 28:43.380]  So if I take away that exclamation mark from the African fish eagle, it won't open that file in log seek
+[28:43.380 --> 28:50.180]  It'll just give me a link to open that file. So what I need to do is add an exclamation mark in front of the mp3 and
+[28:50.260 --> 28:53.980]  Then add the exclamation mark back in front of the fish eagle
+[28:54.180 --> 28:58.180]  It's just one of the quirks of audio versus pictures and there we go
+[28:58.180 --> 29:00.780]  I can now open my audio file in log seek
+[29:01.140 --> 29:02.980]  so ball and
+[29:02.980 --> 29:04.700]  I have my text file over there
+[29:04.700 --> 29:08.340]  So this is quite important for different applications down the line great
+[29:08.740 --> 29:12.140]  So I'm gonna step it up again now and I'm gonna start organizing this information
+[29:12.340 --> 29:19.260]  Just so that it's not haphazard and like this huge mass of text and what I'm gonna do there is create higher level
+[29:19.420 --> 29:24.380]  Blocks, so here we go. I'm just gonna create one which is my scratch pad
+[29:24.380 --> 29:32.700]  So my thinking place hashtag hashtag creates the mark down ever header and then I say scratch pad scratch pad and then this here is
+[29:33.620 --> 29:39.060]  That belongs my scratch pad. I've been thinking a lot about collaboration and then enter enter enter
+[29:39.060 --> 29:43.340]  It goes back to my first level and then I have another one which is meetings and conversations
+[29:43.340 --> 29:47.540]  I'm just gonna say meetings and then I'm going to indent this over here
+[29:48.540 --> 29:54.300]  To be underneath there so the meeting that I had with Francesco is underneath this meetings
+[29:55.220 --> 29:56.380]  headline
+[29:56.380 --> 29:59.420]  The next one here that I usually use is
+[29:59.940 --> 30:05.340]  Content so hashtag hashtag content and then I'll indent this underneath there
+[30:05.980 --> 30:08.460]  So I read that content there and I've also got this
+[30:08.780 --> 30:13.860]  These random pieces of content and I'm gonna put them at the same level as that block over there
+[30:14.740 --> 30:18.020]  And then I put that fish eagle there, so I'm just dragging and dropping and
+[30:18.860 --> 30:23.740]  That is great. Okay. Now the last thing here is reminders
+[30:23.740 --> 30:26.660]  I like to I just like to group it underneath the reminders
+[30:27.060 --> 30:30.900]  And I typically do this at the end of the day when I'm like cleaning up my information
+[30:30.900 --> 30:33.220]  So it's not like any friction of entering information
+[30:33.220 --> 30:36.340]  So I go in and just clean up my database at the end of the day
+[30:36.340 --> 30:41.820]  which is a nice like activity to make sure that I've done everything so I've just zoomed in again because I realized it's zoomed out and
+[30:42.820 --> 30:47.140]  The cool thing about the outlines is that it basically acts as folders
+[30:47.140 --> 30:50.780]  So I can literally close this folder here collapse that folder
+[30:50.780 --> 30:56.220]  I can collapse that folder to I can collapse that folder and I can use shortcuts as well
+[30:56.220 --> 31:00.820]  So control up control down control down opens that control up opens that
+[31:01.420 --> 31:06.940]  Now the other thing about outline is is I can zoom into just the level of information that I want to see
+[31:07.300 --> 31:10.700]  Now I can do that in the main panel and I can do that in the side panel
+[31:10.860 --> 31:15.180]  So what I can do here is I want to say I want to shift click on my reminders
+[31:15.180 --> 31:19.980]  So shift click over there and it opens up just my reminders block and over here
+[31:19.980 --> 31:22.500]  I want to click just on my meetings block
+[31:22.500 --> 31:27.940]  So I just click over there and enables me to zoom in on that little piece of information
+[31:27.940 --> 31:30.980]  I can also clear the right sidebar here by saying
+[31:31.540 --> 31:36.860]  Control C control C and that clears everything there or if I want to bring it up TR
+[31:36.860 --> 31:44.220]  So very nice shortcuts enabling me to really access my different spaces very quickly another important thing to call out on
+[31:44.660 --> 31:47.700]  Outlines is that there is an inheritance of links
+[31:47.820 --> 31:52.660]  So I'm going to look at this more in my personal example when I get into a more detailed database
+[31:52.700 --> 31:55.740]  But the important thing here is that this block over here
+[31:56.100 --> 32:01.740]  This how can log seek help teams hashtag professional and this how can log seek help researchers?
+[32:02.420 --> 32:08.820]  Hashtag workflows or workflows is also inheriting or they both are inheriting this link of
+[32:09.300 --> 32:15.020]  Collaboration because they inherit all the links in their parent block as I said, I'll get into that in my personal example
+[32:15.020 --> 32:18.020]  So I'm back on my daddy journal page. There's a lot of information
+[32:18.020 --> 32:22.100]  I don't know exactly what I need to find quickly. Let me just think I need to find my to-dos
+[32:22.100 --> 32:26.260]  so I say control K to open up my to-do page or my search page and
+[32:26.740 --> 32:30.500]  I could also click on that little icon up there and I can just say
+[32:30.780 --> 32:35.340]  To do and then navigate there and it shows me all the things that I need to do
+[32:35.540 --> 32:37.380]  Okay, so I've already gone grocery shopping
+[32:37.380 --> 32:41.500]  so I can click on that little block over there and that moves it to a done page and
+[32:41.900 --> 32:49.420]  I'm doing this so I can also control enter cycles it through the different task phases. So control enter. That's now doing
+[32:50.060 --> 32:52.060]  Hair appointments. I've booked
+[32:52.060 --> 32:53.180]  oopsie
+[32:53.180 --> 32:59.260]  I have just enter enter there now it's done and I need to confirm dates for site visits though
+[32:59.260 --> 33:03.620]  So that's still something that's on my to-do list. So that's how I cycle through my my tasks
+[33:03.620 --> 33:08.100]  And if I want to return to those pages that all those items that I've done those blocks
+[33:08.100 --> 33:13.100]  I can just say control K and I can say done and then I can go to my done page
+[33:13.100 --> 33:19.380]  And then they are those items that I've done now on the task management side. There's so many different ways to do things and
+[33:19.980 --> 33:27.660]  Log seek allows you a lot of flexibility. So hypothetically you want to have your high level tasks your projects even being a to-do and then break it down into
+[33:28.380 --> 33:34.100]  Checkboxes below that what you can do here is use shift enter to enter a soft line break
+[33:34.100 --> 33:39.220]  So that's not creating a new block. So I go here shift enter and I want to add a
+[33:40.380 --> 33:46.340]  Checkbox I use the asterix and then I use square brackets and a space and then I can say this
+[33:46.980 --> 33:48.980]  first thing and
+[33:49.380 --> 33:53.820]  Then enters the next line automatically for me this second thing
+[33:54.820 --> 34:01.700]  Etc and then enter enter and I close it and now I get these little checkboxes underneath there that I can tick off tick off
+[34:02.020 --> 34:04.820]  tick off and then I can move that to done
+[34:05.620 --> 34:10.100]  so so many different ways to do things and this is where I feel like the burden of
+[34:10.620 --> 34:17.700]  Expanding log seek becomes quite large because it really is a flexible system the log seek community manager
+[34:17.700 --> 34:22.940]  I saw him post something other day about how Excel is for numbers log seek is for text
+[34:22.940 --> 34:28.380]  And you can really customize your own systems as I said, I'm using log seek for everything
+[34:28.380 --> 34:33.020]  so I'm not going to jump into my database show you a bunch of different applications that I'm using log seek for and
+[34:33.460 --> 34:37.740]  Show you a little bit around what more you can do with a tool just to disclaimer here
+[34:37.740 --> 34:40.180]  I've started using my own custom CSS
+[34:40.180 --> 34:43.460]  I've only started using this custom CSS recently
+[34:43.460 --> 34:50.020]  So you can see my file on GitHub which has my custom CSS if you want to mimic it if you know how to change the CSS
+[34:50.140 --> 34:52.260]  But it just helps me to you know
+[34:52.260 --> 34:58.540]  Create a nicer interface for me to work on change the way different things appear draw my eye to things so that it's all helping with this
+[34:58.900 --> 35:01.980]  Retrieval organization input and whilst I'm at it
+[35:01.980 --> 35:07.860]  I might as well show how you can add different databases because you are able to add different databases to log seek
+[35:07.860 --> 35:12.220]  So if I click up here and I click on my current database
+[35:12.220 --> 35:18.220]  I just say add a new graph so graph database folder all of the same thing
+[35:18.420 --> 35:20.420]  so add new graph here and
+[35:21.140 --> 35:23.640]  Quickly my first database, okay
+[35:24.820 --> 35:29.980]  So that's now going to load those files into log seek because I wanted to have a clean environment for this demo
+[35:33.220 --> 35:35.220]  Take a couple seconds
+[35:35.260 --> 35:37.260]  great, so log seek is loaded up and
+[35:37.940 --> 35:42.420]  What I can see here is my daily journal page, but a sequence of daily journal pages
+[35:42.420 --> 35:49.060]  So that's my sequence of logs and this is basically like an infinite scrolling editor through my previous log
+[35:49.060 --> 35:50.180]  So if I just scroll here
+[35:50.180 --> 35:54.980]  You can see all the different things that I've been editing and playing on in this demo database
+[35:54.980 --> 35:58.020]  And there are so many different directions that one could go in here
+[35:58.020 --> 35:59.900]  So I'm going to try and keep it very very structured
+[35:59.900 --> 36:06.460]  The first thing I'd like to show is just this graph you the graph you has been said by some to just be beautiful
+[36:06.460 --> 36:07.780]  But not very functional
+[36:07.780 --> 36:14.180]  That's now changing with a bunch of plugins that are now taking the graph you to have the same sort of powerful
+[36:14.300 --> 36:18.000]  Functionality that you get in obsidian. I haven't actually played around too much with them
+[36:18.000 --> 36:19.140]  I've been focusing on other things
+[36:19.140 --> 36:25.780]  But the graph you is becoming a much more useful feature in that regard another thing that I wanted to look at in my
+[36:25.780 --> 36:30.700]  Personal database was the inheritance of links in parents and child level blocks
+[36:30.820 --> 36:33.780]  So if I go to my page decision-making decision-making
+[36:34.780 --> 36:44.860]  I'm going to show you the search functionality which is not working a hundred percent in this regard because it only looks at things from a top-down approach
+[36:44.860 --> 36:48.740]  So if I look at decision-making here, and I filter it for
+[36:49.580 --> 36:54.900]  It's a organization redesign. I should only be seeing one block over here
+[36:54.900 --> 37:00.740]  So there's a little bit of inconsistency sometimes the most reliable way to get your information is to use queries
+[37:00.740 --> 37:03.980]  I think it's also important to acknowledge that the software is still in beta
+[37:03.980 --> 37:10.220]  So, you know, not everything is working like 100% seamlessly, but it's pretty pretty close. So getting into queries now
+[37:10.220 --> 37:14.940]  I'm going to create an example query page. So let's go here and say ctrl-k. I'm gonna say query
+[37:16.060 --> 37:18.220]  Example and that's now going to create
+[37:18.980 --> 37:24.060]  query page for me and what I'm going to do is say for slash and then
+[37:24.540 --> 37:25.460]  query
+[37:25.460 --> 37:31.180]  Which brings up the query command and that enables me to then enter the parameters that I'm searching for
+[37:31.620 --> 37:37.540]  So the product and I can now also use Boolean logic. So we are wanting to combine different search terms
+[37:37.540 --> 37:40.900]  so what I was trying to combine there was organization redesign and
+[37:41.700 --> 37:46.980]  the decision-making so I'm gonna say and and then decision-making
+[37:48.100 --> 37:50.100]  decision-making and
+[37:50.820 --> 37:52.820]  organization redesign
+[37:53.460 --> 37:58.540]  Great, so I'm gonna get that one block that comes up there and that is exactly what I was looking for
+[37:58.540 --> 38:00.700]  So it enables me to like really refine my searches
+[38:00.700 --> 38:04.300]  So queries and Boolean logic in your queries are very very useful
+[38:04.380 --> 38:08.900]  Now I'm not going to get into that in much more detail because there's so much to cover
+[38:09.260 --> 38:15.460]  So I'm quickly going to take out to this organization redesign to show you what is happening in my
+[38:15.980 --> 38:20.180]  returned information so and let me close my left side by here and
+[38:20.980 --> 38:23.380]  I can now convert this to a table view and
+[38:24.500 --> 38:27.220]  There we go. I have a nice table view to make this wide
+[38:27.220 --> 38:32.700]  So TW just made the screen one day and that's showing me all the different blocks that reference decision-making
+[38:33.340 --> 38:39.380]  Now it's important to note here that I've got some CSS that is wrapping text because sometimes when you have a long block of text
+[38:39.380 --> 38:42.980]  It's not wrapping everything in your query table. So yours might not look like this
+[38:43.420 --> 38:46.420]  The second thing to note is that there's all these different
+[38:46.860 --> 38:52.660]  Headings over here. Now. What are those headings those headings come from me defining block properties?
+[38:52.660 --> 38:56.660]  And that's what I want to get into next block properties are a consistent way
+[38:56.660 --> 38:59.020]  So I'm going to say TW to make it narrow again
+[38:59.660 --> 39:02.100]  Block properties are consistent way to enter information
+[39:03.020 --> 39:09.100]  Repeatedly in log seek. So if I want to enter an article for instance, let me just go find an article that I've been reading
+[39:09.420 --> 39:13.940]  So this is a brief history of decision-making. So if I copy this and I
+[39:14.460 --> 39:16.460]  go and I paste it in log seek and
+[39:17.660 --> 39:20.140]  Then I can get the link here as well. So
+[39:20.660 --> 39:26.100]  copying that link and pasting it yet in the same block so shift enter and
+[39:26.740 --> 39:30.460]  What I the way I do properties is I specify a key
+[39:30.460 --> 39:35.340]  Which is link in this case and then it's colon colon and then I will paste the URL there
+[39:35.340 --> 39:43.180]  And I shift enter again and I can say this is a type and then colon colon and then it's type article
+[39:43.220 --> 39:50.900]  So I'm entering square brackets there to create that node of information and then shift enter again producer and
+[39:51.700 --> 39:56.500]  Then colon colon. This is Harvard business review Harvard
+[39:57.300 --> 39:58.820]  business
+[39:58.820 --> 40:02.460]  review and then shift enter and
+[40:02.860 --> 40:05.820]  I think that's everything I need there. Yeah, I'll also just use
+[40:06.900 --> 40:10.060]  the markdown header there just to make it nice and pretty and then
+[40:11.060 --> 40:17.700]  This was a great article, whatever this was a great article
+[40:18.220 --> 40:22.100]  So that's how I'm getting my data into log seek consistently
+[40:22.100 --> 40:27.140]  It's just giving me a couple of different points to be able to find that information again
+[40:27.140 --> 40:32.860]  I actually have another one which I use which is tags. So that's the consistency there. So tags. This is decision-making
+[40:34.020 --> 40:35.860]  Great, that's a very important one
+[40:35.940 --> 40:40.740]  This would be a little bit tedious to do every time so you can also create templates in log seek
+[40:40.860 --> 40:44.780]  Now the way that you create a template is to do this same thing here
+[40:44.940 --> 40:51.060]  But make it empty and then let me just quickly do that too. So if I go here and I say
+[40:53.020 --> 40:56.300]  Delete that delete that
+[40:57.740 --> 41:01.380]  And then just see shift enter there
+[41:02.980 --> 41:04.980]  Take away the producer
+[41:05.900 --> 41:07.900]  and then
+[41:09.300 --> 41:11.300]  Remove the tags
+[41:13.100 --> 41:15.100]  This is not going so well
+[41:17.100 --> 41:21.740]  There we go, I now have an empty block that can I can use again and again
+[41:21.900 --> 41:26.180]  Then what I would do is I'd right click here and say make templates
+[41:26.260 --> 41:31.980]  Now I already have a template called articles because I tried to make one but I'm gonna say article example and
+[41:32.980 --> 41:38.260]  What this will do then is every time that I want to use a template I can just
+[41:38.860 --> 41:47.740]  Use the forward stash command which brings up this menu here to say template and then I can say template and then say article example there
+[41:48.700 --> 41:52.060]  Great, and then that will allow me to very quickly input information
+[41:52.060 --> 41:56.380]  I've reduced that a lot by using text expanders. So I just have JJ
+[41:57.060 --> 42:01.980]  Ia because I actually use input article and then I use output article for articles that I'm writing
+[42:01.980 --> 42:07.620]  So yeah, so many different ways of doing things. It's important to just develop consistency so that you are not
+[42:08.100 --> 42:11.740]  Trying different things and you know, you're able to retrieve information repeatedly
+[42:11.740 --> 42:14.540]  They really is so much to say about log seek, you know
+[42:14.540 --> 42:19.860]  I spoke in a little bit of how there's a graph plugin that's coming and the plugin environment is growing very very quickly
+[42:20.140 --> 42:24.380]  There's a few plugins which make things really really nice for me
+[42:24.380 --> 42:26.660]  I think so I'm just quickly gonna look at those plugins and
+[42:27.260 --> 42:30.420]  Yeah, let's see how far we can get before I run out of steam
+[42:30.540 --> 42:36.540]  So I'm quickly gonna go to this page over here July the 6th and one of the plugins
+[42:36.540 --> 42:44.020]  Let me actually just turn my plugins on here. I'm going to turn in this tags plugin this calendar one plugin agenda and
+[42:44.940 --> 42:46.940]  One of my plugins might be off actually
+[42:47.820 --> 42:49.820]  no, okay and
+[42:50.300 --> 42:53.020]  the plugin that I want to look at is mark map and
+[42:53.500 --> 42:57.060]  Mark map is a plugin which creates a mind map or your outline
+[42:57.060 --> 42:59.060]  So it is mark map creates mind maps
+[42:59.060 --> 43:06.580]  And if I click on this little button here that will now create a view of the branching of my outline
+[43:06.700 --> 43:10.020]  So on this day July 6th, I had two meetings
+[43:10.020 --> 43:16.260]  I would typically indent those underneath the meetings block and then the two meetings that I had were
+[43:17.020 --> 43:22.140]  review of mining corporations and PD chat and then I can zoom into different levels
+[43:22.140 --> 43:26.300]  If I zoom into level one, these are the two meetings that I had if I zoom into level two
+[43:26.300 --> 43:29.100]  I can zoom in there and then I can also further
+[43:29.820 --> 43:32.300]  Click in on just the ones that I want to look at so I can
+[43:32.900 --> 43:35.540]  Close that one and then open that one
+[43:36.100 --> 43:43.180]  Over there and then see what I need to improve on in my problem solving or something and yeah
+[43:43.180 --> 43:45.820]  There's some information about you know
+[43:45.820 --> 43:49.220]  That's following this tree of information and now this piece of information
+[43:49.780 --> 43:55.540]  Will inherit all the links that are above it so it will inherit if I just go back out of the outline
+[43:55.540 --> 43:57.540]  So if I escape there this
+[43:57.660 --> 44:02.940]  Piece here that was the one I was looking at will inherit that link over there
+[44:02.940 --> 44:08.140]  It will inherit improvement opportunities over here. It will inherit the person's name
+[44:08.140 --> 44:12.420]  It will inherit the project name will inherit all of those things. So that's a super useful
+[44:13.340 --> 44:15.220]  Way of thinking about your information
+[44:15.220 --> 44:19.540]  So it happens naturally in the outliner, but the mind map helps you see that a little bit better
+[44:20.140 --> 44:24.180]  the second plugin that is really useful is this calendar plugin over here and
+[44:24.740 --> 44:30.540]  The calendar plugin just enables me to select different dates either in the past or in the future and navigate to
+[44:31.020 --> 44:36.660]  Different times in my database and you can see here that I get this little orange circle underneath all the dates that have information
+[44:36.940 --> 44:38.380]  underneath them
+[44:38.380 --> 44:43.140]  The third plugin is the agenda plugin. The agenda plugin is a very powerful
+[44:43.900 --> 44:45.260]  plugin which is
+[44:45.260 --> 44:49.100]  Basically allowing you to transform your your outlines into
+[44:49.940 --> 44:54.580]  Different views you get GAN views you get your calendar view, which is the one that I see here
+[44:54.580 --> 44:58.740]  I've also integrated my Google Calendar into here so it blocks out different times
+[44:58.740 --> 45:03.100]  This is just my personal calendar not my work calendar. This is why it's so empty. I'm so busy
+[45:04.900 --> 45:06.180]  No
+[45:06.180 --> 45:12.300]  I'm really bad in yeah, this is a very very nice plugin lots of work has gone into this one definitely recommend checking this one out
+[45:13.180 --> 45:17.260]  Then for those of you who are coming from Obsidian and like the tags plugin this
+[45:17.780 --> 45:24.980]  Tags view over here also enables you to see all the different tags that you've used and how many times you've used them
+[45:24.980 --> 45:30.660]  You can sort it a to z or how many num the number of times that you used it
+[45:31.260 --> 45:35.780]  There is this plugin which you can't really see because it's not
+[45:36.780 --> 45:42.500]  Button that I click but it's called bullet trading and that shows me here this line of inheritance
+[45:42.500 --> 45:47.300]  Which will show me that this block over here will inherit all of these links
+[45:47.300 --> 45:52.980]  So that's the importance of nodes those nodes really translate throughout your information throughout your outlines
+[45:54.140 --> 45:57.700]  The final plug-in that I think is really cool is one called log tools
+[45:57.700 --> 46:01.860]  And I'm going to go to this project page over here, which is
+[46:02.500 --> 46:09.620]  Logistics optimization. I haven't even looked at the name spaces name spaces allow you to add hierarchy in your page links
+[46:09.620 --> 46:15.860]  So if you add a forward slash in your page name, it creates this branching down below of
+[46:17.500 --> 46:19.940]  Your different projects, I'm gonna come back to this project here
+[46:19.940 --> 46:26.660]  But I'm gonna go to the high-level project or whatever page you specify and I can also actually query my name spaces
+[46:26.660 --> 46:28.780]  So this is a namespace query
+[46:28.780 --> 46:34.780]  So I don't actually have to go right to the bottom, but I can always just quickly close these link references now
+[46:35.060 --> 46:37.060]  This is my own custom CSS
+[46:37.060 --> 46:43.500]  You will see there that wins and improvement opportunities all have their own custom CSS as I say just to draw the eye
+[46:43.660 --> 46:50.660]  Help me navigate help me like create buttons that I want to push and go and find but if I go back to this logistics optimization
+[46:51.300 --> 46:57.620]  One of the plugins which I found very useful just to help from a project management perspective is the Kanban plugin
+[46:57.620 --> 47:03.060]  and this is also a custom CSS application if I just close my left sidebar there and
+[47:04.140 --> 47:05.380]  It's
+[47:05.380 --> 47:09.220]  Functional for me. There's better ways of doing it and I'm going to get there eventually
+[47:09.620 --> 47:14.380]  But what I'm doing here is I'm saying query the tasks that have later and
+[47:14.940 --> 47:21.940]  This project name query the tasks that have to do and this project name and then doing in this project name
+[47:21.940 --> 47:26.660]  And then waiting and this project name. So that's my personal approach for using tasks
+[47:26.660 --> 47:32.180]  I don't actually use to do doing done. I use the different ones where you have later to do
+[47:32.860 --> 47:37.380]  Doing and waiting is for whenever there's something else that I'm waiting for from someone else
+[47:37.540 --> 47:43.860]  The problem with that is that log seek treats later and to do as the same thing because they you know, it's later
+[47:44.580 --> 47:48.700]  now and to do doing so there is some complexity there, but
+[47:49.420 --> 47:52.340]  We'll see how that evolves as the database evolves
+[47:52.420 --> 47:58.140]  So this is provided by the log tools plugin, which enables you to add CSS
+[47:58.580 --> 48:01.060]  Very easily by just adding the hashtag
+[48:01.580 --> 48:03.580]  Dot V Kanban wide
+[48:04.500 --> 48:10.180]  Again, super simple plugin really nice to use though. So I've looked a lot of the functionality
+[48:10.180 --> 48:14.020]  I haven't actually looked a lot at my own database. So a little bit of project management over here
+[48:14.140 --> 48:19.900]  I've also got a couple of things that I am doing on the left here
+[48:19.940 --> 48:21.940]  So TL to open the left sidebar
+[48:22.540 --> 48:25.700]  research busy structuring research workflows and
+[48:26.980 --> 48:31.980]  Building out project pages or building our ways of how you can use log seek for research
+[48:31.980 --> 48:36.300]  This will be a video coming out very soon. Hopefully and to be put in the course. I
+[48:37.020 --> 48:41.260]  Am writing in five different areas. So these are my different scratch pads
+[48:41.260 --> 48:46.980]  So scratch pad and organizations apply thought personal social transcendence all of those are
+[48:47.820 --> 48:53.660]  Collection points of my writing. So actually everything that I've ever written now is basically in log seek. I
+[48:54.380 --> 48:57.300]  can do habit tracking using page properties and
+[48:58.420 --> 49:01.860]  unfortunately, it's not in this database, but I'll quickly navigate to my personal database and
+[49:02.580 --> 49:08.420]  Then I've also started to build a looking back function and this will query any
+[49:09.380 --> 49:12.860]  This is using a database query looking at
+[49:13.500 --> 49:18.980]  The node daily pictures I create the node or page daily picture and then I indent underneath it
+[49:18.980 --> 49:27.420]  I don't do it every day, but you know, when I remember it's quite nice to do it and this query is showing me from a year ago
+[49:27.420 --> 49:30.100]  And you know two years ago three years ago, etc
+[49:30.220 --> 49:33.100]  All the times that I've entered a picture in my database
+[49:33.100 --> 49:40.100]  So saying daily picture and it's also entering a journal. So journal is one of those high-level things and I use
+[49:41.100 --> 49:45.580]  Journal the the the link journal in my daily journal. So it might be a little bit confusing
+[49:45.580 --> 49:50.300]  But you could say you know personal writing and it's just returning different things to me
+[49:50.300 --> 49:55.860]  So let me just zoom in here a little bit zoom in. So this is a picture from a regatta
+[49:56.180 --> 50:01.800]  Last year July and I had a good day there again. So decided to throw a caution to the wind and have an ice cream
+[50:02.900 --> 50:04.900]  Don't know why I said that
+[50:04.900 --> 50:08.580]  And then here this is another picture from two years ago
+[50:08.580 --> 50:12.700]  And this is when I found odd fuck droppings when I was in bella game reserve and
+[50:13.260 --> 50:18.500]  Yeah, the journal is had a great walk with Masi today. Obviously had a number of points nested underneath there
+[50:18.500 --> 50:21.500]  I could click in there. I could use shortcuts control down
+[50:22.420 --> 50:26.700]  Working it works. So, yeah, there's some of the experiences I had
+[50:26.700 --> 50:31.940]  So it's it's nice to be able to go and do this sort of stuff and the final application that I wanted to show
+[50:31.980 --> 50:35.860]  Which is in my personal database now because I haven't moved that over to the example database
+[50:36.020 --> 50:38.020]  it's just this habit tracker and
+[50:38.180 --> 50:44.140]  What this is doing is just adding a set of properties on each page which have you know, did I meditate?
+[50:44.860 --> 50:48.700]  What time did I go to bed? What time did I wake up and then this other property here?
+[50:48.700 --> 50:52.420]  Which is three words so that I can just track over time how things are
+[50:52.860 --> 50:57.020]  Changing what I'm doing and I'm not very disciplined. I don't do it every day
+[50:57.020 --> 51:01.380]  But it's nice to be able to go and look back and see the different trends in your behavior
+[51:01.380 --> 51:05.540]  What might have been triggering for you? What was good? What was bad? How often did you meditate?
+[51:06.260 --> 51:11.140]  Not keeping a scorecard, but just to help build awareness of different things in your life
+[51:11.260 --> 51:14.540]  So I tried to get through a lot in that video going from, you know
+[51:14.540 --> 51:20.040]  The real basics of how you can start using log seek to what it might look like at the end and we don't even look at all the
+[51:20.040 --> 51:24.180]  Different applications as I say, I have started using log seek for absolutely everything
+[51:24.580 --> 51:26.980]  Building like a travel log dive log book
+[51:27.380 --> 51:31.300]  Project management all my knowledge management all my writing workflows journaling
+[51:31.740 --> 51:36.620]  Task management everything is in log seek. The beauty about log seek is that it really is a flexible tool
+[51:36.620 --> 51:42.740]  Like it's just a text editor at its core and in the outlines and the bi-directional links mean that you can structure your workflows
+[51:42.740 --> 51:46.660]  Any which way that you want log seek has been transformative in the way that I work
+[51:46.660 --> 51:52.540]  And I feel like I can finally manage everything in one place digitally and you know remove that friction between
+[51:52.780 --> 51:58.740]  Inputs output organization retrieval all those different stages just become emulgimated into this single environment
+[51:59.220 --> 52:04.540]  Which has been incredible for me if you're looking for more information on log seek have a look at my channel
+[52:04.540 --> 52:08.180]  I've made a lot of tutorials on log seek, but I've taken it a step further
+[52:08.180 --> 52:13.820]  And I've also built out a course called log seek mastery and that really has a lot of well structured
+[52:13.820 --> 52:15.100]  I think
+[52:15.100 --> 52:19.620]  Lessons and it's over seven hours of content in the first section which is tutorials
+[52:19.620 --> 52:25.660]  Which is just looking at all the features available to you and log seek and the second section is workflows and systems
+[52:25.660 --> 52:29.220]  Which is a work in progress as I develop my own systems and improve things
+[52:29.420 --> 52:36.340]  But the combination of those two is really powerful for me and has helped me really refine my own work and take it to the next level
+[52:36.660 --> 52:41.980]  So thank you so much for watching. I really hope you enjoyed that and would love to see you around on the interwebs. Cheers
+[52:49.620 --> 52:51.620]  You
