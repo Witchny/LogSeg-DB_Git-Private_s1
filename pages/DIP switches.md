@@ -1,0 +1,2 @@
+- ![](https://i.rtings.com/assets/products/aNgM2RKt/ducky-one-2-mini-v2/features-large.jpg)
+-
