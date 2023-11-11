@@ -1,0 +1,4 @@
+- To enable the arrows on the right side of the Ducky keyboard:
+	- [[DIP switches]] under keyboard are all off
+	- [[AutoHotKey]] script [Arrows.ahk](../assets/Arrows_1699693175582_0.ahk) in shell:startup
+	- Use [[PowerToys]] [[keyboard]] manager to assign VK223 to right arrow
