@@ -27,11 +27,11 @@
   markdown
   Copy code
 - **List Markdown Files**
-- Ensure you have the files you intend to merge.
-  ls *.md
-  
-  sql
-  Copy code
+	- Ensure you have the files you intend to merge.
+	  ls *.md
+	  
+	  sql
+	  Copy code
 - **Merge Files Using `mdmerge`**
 - Merge all `.md` files in the current directory into `merged_output.md`.
   mdmerge -o merged_output.md *.md
