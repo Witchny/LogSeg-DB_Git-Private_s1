@@ -32,7 +32,7 @@
 	  
 	  sql
 	  Copy code
-- **Merge Files Using `mdmerge`**
+		- **Merge Files Using `mdmerge`**
 - Merge all `.md` files in the current directory into `merged_output.md`.
   mdmerge -o merged_output.md *.md
   
