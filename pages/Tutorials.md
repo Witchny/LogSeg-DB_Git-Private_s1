@@ -1,3 +1,5 @@
+purpose :: Hub of all tutorials
+
 -
 - # [[Logseq]]
   title:: Tutorials
