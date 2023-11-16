@@ -1,3 +1,2 @@
 - [[Keyboard]]
-  background-color:: red
 -
