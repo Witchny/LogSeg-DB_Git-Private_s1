@@ -1,5 +1,6 @@
-# [[Logseq]]
-title:: Tutorials
+-
+- # [[Logseq]]
+  title:: Tutorials
 	- The Ultimate Beginner's Guide to Logseq - Getting Started
 	  collapsed:: true
 		- [[Transcribe]] of the video: [output.txt](../assets/output_1699655504177_0.txt)
