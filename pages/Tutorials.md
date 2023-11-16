@@ -1,5 +1,4 @@
-purpose:: Hub
-
+-
 -
 - # [[Logseq]]
   title:: Tutorials
