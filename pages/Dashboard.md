@@ -1,3 +1,3 @@
 - #ResearchTopics
-- Tags:: #ResearchTopics
+-
 -
