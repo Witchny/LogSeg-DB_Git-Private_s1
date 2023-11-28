@@ -19,3 +19,6 @@
 - ```Bash
   sudo apt-get install nvidia-driver-545
   ```
+- ```Bash
+  sudo reboot
+  ```
