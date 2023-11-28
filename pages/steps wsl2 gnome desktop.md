@@ -22,3 +22,6 @@
 - ```Bash
   sudo reboot
   ```
+- ```Bash
+  nvidia-smi
+  ```
