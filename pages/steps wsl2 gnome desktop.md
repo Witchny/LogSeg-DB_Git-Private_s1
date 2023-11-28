@@ -6,4 +6,7 @@
   New password:
   Retype new password:
   ```
+- ```Bash
+  sudo apt update && sudo apt upgrade
+  ```
 -
