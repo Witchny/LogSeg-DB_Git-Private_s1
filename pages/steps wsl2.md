@@ -1,2 +1,6 @@
-- wsl --install Ubuntu
--
+- ```Bash
+  wsl --install Ubuntu
+  ```
+- ```Bash
+  
+  ```
