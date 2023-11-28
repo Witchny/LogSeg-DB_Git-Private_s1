@@ -9,4 +9,11 @@
 - ```Bash
   sudo apt update && sudo apt upgrade
   ```
+- ```Bash
+  sudo reboot
+  ```
+- background-color:: red
+  ```Bash
+  wsl --install Ubuntu
+  ```
 -
