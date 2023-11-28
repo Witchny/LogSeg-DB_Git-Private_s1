@@ -1,6 +1,8 @@
 - ```Bash
   wsl --install Ubuntu
   ```
-- ```Bash
+- template:: BashBlock
+  ```Bash
   
   ```
+-
