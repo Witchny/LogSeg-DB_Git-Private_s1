@@ -14,6 +14,6 @@
   ```
 - background-color:: red
   ```Bash
-  wsl --install Ubuntu
+  wsl --install Ubuntu **TO BE CHECKED**
   ```
 -
