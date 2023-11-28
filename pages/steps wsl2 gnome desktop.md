@@ -16,4 +16,6 @@
   ```Bash
   wsl --install Ubuntu **TO BE CHECKED**
   ```
--
+- ```Bash
+  sudo apt-get install nvidia-driver-545
+  ```
