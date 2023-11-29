@@ -2,4 +2,5 @@
 - Pizza #food
 - Burgers #food
 - Poutine #food
+- salami [[food]]
 -
